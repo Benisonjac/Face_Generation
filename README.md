@@ -81,7 +81,14 @@ pip install tensorflow numpy gradio requests
 This project is for educational and research purposes.
 
 ---
+## Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request. For major changes, please open an issue first to discuss what you would like to change.
 
 ## Contact
 
-For inquiries, reach out at [your-email@domain.com].
+If you have questions or issues, please open an issue on this repository.
+
+---
+
+⭐ If you find this project useful, please consider giving it a star!
